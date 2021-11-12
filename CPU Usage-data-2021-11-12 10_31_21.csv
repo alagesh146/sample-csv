@@ -1,0 +1,4 @@
+﻿sep=,
+"Timestamp","Hostname","CPU Interrupt Interval Value","CPU Rising Threshold Period","CPU Rising Threshold Value","CPU Total Interval Value","Process ExtUtils5SecRev","snmpTrapOID","City","Postcode","Country","CI Role","Internal Criticality","Internal Host Source","Internal Host Model","Internal Host OS","Internal Host Serial","Internal Host Vendor","Internal Host VF Category","Management IP","Service Name","Site Name","Snow Site Name","Collector Message Version","Collector Pod Name","Logstash Config Version","CISCO-PROCESS-MIB::cpmProcessTimeCreated.1"
+2021-11-11T11:52:11.861Z,CH-ASA-60-71,0,1,10,9,0,CISCO-PROCESS-MIB::cpmCPURisingThreshold,London,NW10 7PQ,UK,[WAN][vManage - Management IP],[CRITICAL] [Aviva SD WAN Services],STABLENET,SDWAN 20.3.3.1.5,Version: 20.3.3.1.5,,CISCO,WAN,10.168.60.71,SDWAN,[AV0718]-[Vodafone Park Royal DC],AV0718 - VODAFONE PARK ROYAL DC,2,asa-firewalls-snmp-collector-85dc79fd66-5bhwf,V1,0
+
